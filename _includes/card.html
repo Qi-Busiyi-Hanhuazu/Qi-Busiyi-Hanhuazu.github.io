@@ -1,5 +1,5 @@
 <div class="col-sm-6 col-md-4"><div class="card">
-  <a href="{{ include.link }}"><img src="{{ include.src | relative_url }}" class="card-img-top" alt="{{ include.title }}"></a>
+  <a href="{{ include.link }}"><img src="{{ include.src | relative_url }}" class="card-img-top" alt="{{ include.title }}" decoding="async" loading="lazy" /></a>
   <div class="card-body">
     <h5 class="card-title">{{ include.title }}</h5>
     <p class="card-text">{{ include.info }}</p>
