@@ -140,15 +140,25 @@ img {
 
   --#{$prefix}gutter-y: 1.5rem;
 
+  .card {
+    overflow: hidden;
+  }
+
   .card-img-top {
     aspect-ratio: 16 / 9;
     object-fit: contain;
+    transition: scale 0.2s ease-out;
+
+    &:hover {
+      scale: 1.2;
+    }
   }
 
   .card-text {
     height: calc(var(--#{$prefix}body-line-height) * 3rem);
     display: -webkit-box;
     -webkit-box-orient: vertical;
+    line-clamp: 3;
     -webkit-line-clamp: 3;
     overflow: hidden;
   }
