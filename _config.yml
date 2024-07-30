@@ -1,0 +1,31 @@
+author: 七不思议汉化组
+name: 七不思议汉化组
+timezone: Asia/Shanghai
+url: https://7.xzonn.top
+defaults:
+  - values:
+      layout: "default"
+exclude:
+  - Debug/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - jsconfig.json
+  - README.md
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-sass-converter
+repository: Qi-Busiyi-Hanhuazu/Qi-Busiyi-Hanhuazu.github.io
+sass:
+  sass_dir: assets/css
+  load_paths: 
+    - assets/css
+    - node_modules
+  sourcemap: always
+  style: compressed
+relative_links:
+  collections: true

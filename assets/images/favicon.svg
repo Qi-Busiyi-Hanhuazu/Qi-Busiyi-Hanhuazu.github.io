@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#fill1);
+      }
+
+      .cls-2 {
+        fill: url(#fill2);
+      }
+    </style>
+    <linearGradient id="fill1" x1="25" y1="25" x2="175" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6f8fc"/>
+      <stop offset=".74" stop-color="#c7d5ed"/>
+      <stop offset=".83" stop-color="#c7d5ed"/>
+      <stop offset="1" stop-color="#abc0e4"/>
+    </linearGradient>
+    <linearGradient id="fill2" x1="175" y1="25" x2="25" y2="225" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6f8fc"/>
+      <stop offset=".74" stop-color="#c7d5ed"/>
+      <stop offset=".83" stop-color="#c7d5ed"/>
+      <stop offset="1" stop-color="#abc0e4"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M175,0H25C11.2,0,0,11.2,0,25s11.2,25,25,25h150c13.8,0,25-11.2,25-25S188.8,0,175,0Z"/>
+  <path class="cls-2" d="M155,10L5,210c-8.3,11-6,26.7,5,35s26.7,6,35-5L195,40c8.3-11,6-26.7-5-35-11-8.3-26.7-6-35,5h0Z"/>
+</svg>
