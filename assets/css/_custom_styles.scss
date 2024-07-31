@@ -144,6 +144,11 @@ img {
     overflow: hidden;
   }
 
+  .card > a {
+    display: block;
+    overflow: hidden;
+  }
+
   .card-img-top {
     aspect-ratio: 16 / 9;
     object-fit: contain;
