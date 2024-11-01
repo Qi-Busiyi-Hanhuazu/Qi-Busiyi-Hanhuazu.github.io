@@ -23,6 +23,7 @@ title: 七不思议汉化组 作品一览
 
 <div class="xz-game-card-list">
 {% include card.html title="谋杀谜案悖论 悠悠一夏十五载" info="Windows平台。穿越时空探求身份之谜。" link="https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalization/" src="/assets/images/murder-mystery-paradox.png" %}
+{% include card.html title="摇曳露营△ Have a nice day!" info="Switch平台。和少女们一起摇曳露营。" link="https://github.com/Qi-Busiyi-Hanhuazu/YCHANDChsLocalization" src="/assets/images/favicon.svg" %}
 </div>
 
 ## 相关链接
