@@ -7,6 +7,7 @@ title: 七不思议汉化组 作品一览
 
 <div class="xz-game-card-list">
 {% include card.html title="灵异视界 FILE23 本所七大不可思议" info="Windows/Switch平台。本作已更新官方中文，官译“灵视异闻 FILE23 本所七大不可思议”，本补丁不再更新。" link="https://7.xzonn.top/ParanormasightChsLocalization/" src="/assets/images/paranormasight.jpg" %}
+{% include card.html title="世界树的迷宫III 星海的访客" info="DS平台。启程前往浮于浪间的海都，世界树迷宫的挑战之旅已经开始。" link="https://7.xzonn.top/EO3ChsLocalization/" src="/assets/images/eo3.png" %}
 </div>
 
 ## 进行中
