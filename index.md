@@ -36,4 +36,5 @@ Xzonn的其他汉化相关作品。
 {% include card.html title="《AI：梦境档案》简体中文字体替换补丁" info="Windows平台。用简体中文的字形游玩官方繁体中文的游戏。" link="https://xzonn.top/posts/AI-The-Somnium-Files-Chs-Patch.html" src="/assets/images/aitsf.jpg" %}
 {% include card.html title="夏日重现 Another Horizon" info="Switch平台。扮演网代慎平和同伴一起阻止影子的阴谋。" link="https://xzonn.top/STRAHChsLocalization/" src="/assets/images/strah.png" %}
 {% include card.html title="Another Code 两种记忆" info="DS平台。成为艾希莉前往孤岛寻找父亲。" link="https://xzonn.top/ACTMChsLocalization/" src="/assets/images/actm.png" %}
+{% include card.html title="数码宝贝物语 遗失的进化" info="DS平台。遗失进化汉化组。在亚古兽的请求下，主角成为了他的驯兽师，并追着带走朋友的神秘三人组前往数码世界。" link="https://xzonn.top/DSLEChsLocalization/" src="/assets/images/dsle.png" %}
 </div>
