@@ -20,3 +20,6 @@ Debug/
 # Visual Studio Code
 .vscode/
 *.code-workspace
+
+# Script
+*.py
